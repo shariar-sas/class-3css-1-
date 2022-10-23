@@ -1,0 +1,30 @@
+h1 {
+
+     /* color:red;
+  font-size: 50px;
+   background-color: black; 
+  font-family: sans-serif;
+  text-align: center;
+  text-shadow: 5px 5px 8px green;  */
+  import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+
+  background-color: #5a995e;
+  margin: 40px auto;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 100px;
+  font-weight: bold;
+  color: #121212;
+  text-align: center;
+  letter-spacing: 5px;
+  text-shadow: 2px 7px 5px rgba(0,0,0,0.3), 
+    0px -4px 10px rgba(255,255,255,0.3);
+
+}
+p{
+    font-size: 20px;
+    font-family: 'Ubuntu' sans-serif;
+    text-align: left;
+  font-size: 20px;
+  text-transform: capitalize;
+}
